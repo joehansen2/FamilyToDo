@@ -1,8 +1,11 @@
 FamilyToDo::Application.routes.draw do
+  resources :statuses
+
+
   resources :projects
 
 
-  resources :families
+  resources :people
 
 
   # The priority is based upon order of creation:

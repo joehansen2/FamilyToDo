@@ -6,7 +6,7 @@ one:
   NeededMaterials: MyString
   Cost: 9.99
   TimeRequired: 9.99
-  Family_id: 1
+  person_id: 1
 
 two:
   name: MyString
@@ -14,4 +14,4 @@ two:
   NeededMaterials: MyString
   Cost: 9.99
   TimeRequired: 9.99
-  Family_id: 1
+  person_id: 1
