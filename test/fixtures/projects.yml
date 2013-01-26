@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  status_id: 1
+  NeededMaterials: MyString
+  Cost: 9.99
+  TimeRequired: 9.99
+  Family_id: 1
+
+two:
+  name: MyString
+  status_id: 1
+  NeededMaterials: MyString
+  Cost: 9.99
+  TimeRequired: 9.99
+  Family_id: 1
